@@ -1,6 +1,3 @@
-# biomedical_text_classification
-
-
 # Biomedical Text Classification using LSTM, GRU and Bahdanau Attention
 
 ## Project Overview
