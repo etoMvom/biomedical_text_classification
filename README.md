@@ -13,12 +13,12 @@ The project utilizes classical machine learning models (SVM, Random Forest) and 
   - Linear SVM
   - Random Forest
 - Deep Learning:
-  - LSTM and GRU (from scratch)
-  - LSTM and GRU with GloVe and FastText embeddings
-  - LSTM and GRU with Bahdanau Attention
-  - LSTM and GRU with BioMedNLP contextual embeddings
+  - Bidiretional LSTM and GRU (from scratch)
+  - Bidiretional LSTM and GRU with GloVe and FastText embeddings
+  - Bidiretional LSTM and GRU with Bahdanau Attention
+  - Bidiretional LSTM and GRU with BioMedNLP contextual embeddings
 
 ## 📈 Key Findings
-- GRU models outperform LSTM in training efficiency and balanced accuracy.
+- Bidiretional GRU models outperform bidiretional LSTM in training efficiency and balanced accuracy.
 - Class weighting is more effective than SMOTE for handling class imbalance.
-- BioMedNLP embeddings combined with attention mechanisms show strong generalization in few-shot learning scenarios.
+- BioMedNLP embeddings combined with attention mechanisms show better generalization in few-shot learning scenarios.
