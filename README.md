@@ -21,4 +21,4 @@ The project utilizes classical machine learning models (SVM, Random Forest) and 
 ## 📈 Key Findings
 - Bidiretional GRU models outperform bidiretional LSTM in training efficiency and balanced accuracy.
 - Class weighting is more effective than SMOTE for handling class imbalance.
-- BioMedNLP embeddings combined with attention mechanisms show better generalization in few-shot learning scenarios.
+- Bidirectional GRU model combined with attention mechanisms using BioMedNLP embeddings show better generalization in few-shot learning scenarios.
