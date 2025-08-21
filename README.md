@@ -17,7 +17,7 @@ The project utilizes classical machine learning models (SVM, Random Forest) and 
   - Bidiretional LSTM and GRU with GloVe and FastText embeddings
   - Bidiretional LSTM and GRU with Bahdanau Attention
   - Bidiretional LSTM and GRU with BioMedNLP contextual embeddings
-
+    using word embeddings Glove (300 d) and Fasttext (300d), and BioMedNLP as contextual embeddings.
 ## 📈 Key Findings
 - Bidiretional GRU models outperform bidiretional LSTM in training efficiency and balanced accuracy.
 - Class weighting is more effective than SMOTE for handling class imbalance.
